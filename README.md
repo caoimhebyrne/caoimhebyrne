@@ -2,7 +2,7 @@
 <div>
   
 [![Last.FM status](https://badges.lastfm.workers.dev/last-played?user=cbyrneee&style=for-the-badge&logo=spotify&color=%231DB954)](https://www.last.fm/user/cbyrneee)
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=caoimhe%230001&color=%235865F2&logo=discord&style=for-the-badge)](https://discord.com/users/843135686173392946)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=caoimhe.byrne&color=%235865F2&logo=discord&style=for-the-badge)](https://discord.com/users/843135686173392946)
   
 </div>
 
