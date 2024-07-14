@@ -1,7 +1,7 @@
 ### Hiya! 👋
 <div>
   
-[![Last.FM status](https://badges.lastfm.workers.dev/last-played?user=caoimhereal&style=for-the-badge&logo=apple=-music&color=%FA2D48)](https://www.last.fm/user/caoimhereal)
+[![Last.FM status](https://badges.lastfm.workers.dev/last-played?user=caoimhereal&style=for-the-badge&logo=apple-music&color=FA2D48)](https://www.last.fm/user/caoimhereal)
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=caoimhe.byrne&color=%235865F2&logo=discord&style=for-the-badge)](https://discord.com/users/843135686173392946)
   
 </div>
